@@ -163,4 +163,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8952-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/motorola/msm8952-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/motorola/msm8952-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/motorola/msm8952-common/proprietary/vendor/lib/libril-qc-radioconfig.so:system/vendor/lib/libril-qc-radioconfig.so
+    vendor/motorola/msm8952-common/proprietary/vendor/lib/libril-qc-radioconfig.so:system/vendor/lib/libril-qc-radioconfig.so \
+    vendor/motorola/msm8952-common/proprietary/bin/pm-service:system/bin/pm-service \
+    vendor/motorola/msm8952-common/proprietary/bin/pm-proxy:system/bin/pm-proxy
