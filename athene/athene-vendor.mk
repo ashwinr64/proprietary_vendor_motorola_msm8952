@@ -190,6 +190,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/vendor/lib/libchromatix_imx214_altm_ihdr_video_ak7345.so:system/vendor/lib/libchromatix_imx214_altm_ihdr_video_ak7345.so \
     vendor/motorola/athene/proprietary/vendor/lib/libchromatix_imx214_altm_ihdr_video.so:system/vendor/lib/libchromatix_imx214_altm_ihdr_video.so \
     vendor/motorola/athene/proprietary/vendor/lib/libchromatix_imx214_common.so:system/vendor/lib/libchromatix_imx214_common.so \
+    vendor/motorola/athene/proprietary/vendor/lib/libchromatix_imx214_common_new_ircf.so:system/vendor/lib/libchromatix_imx214_common_new_ircf.so \
     vendor/motorola/athene/proprietary/vendor/lib/libchromatix_imx214_cpp_hfr_120.so:system/vendor/lib/libchromatix_imx214_cpp_hfr_120.so \
     vendor/motorola/athene/proprietary/vendor/lib/libchromatix_imx214_cpp_hfr_60.so:system/vendor/lib/libchromatix_imx214_cpp_hfr_60.so \
     vendor/motorola/athene/proprietary/vendor/lib/libchromatix_imx214_cpp_liveshot.so:system/vendor/lib/libchromatix_imx214_cpp_liveshot.so \
