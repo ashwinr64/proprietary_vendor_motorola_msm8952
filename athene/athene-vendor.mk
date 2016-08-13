@@ -102,6 +102,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/lib/hw/audio.usb.default.so:system/lib/hw/audio.usb.default.so \
     vendor/motorola/athene/proprietary/lib/hw/camera.msm8952.so:system/lib/hw/camera.msm8952.so \
     vendor/motorola/athene/proprietary/lib/hw/fingerprint.msm8952.so:system/lib/hw/fingerprint.msm8952.so \
+    vendor/motorola/athene/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so.so \
     vendor/motorola/athene/proprietary/lib/hw/sensorhub.msm8952.so:system/lib/hw/sensorhub.msm8952.so \
     vendor/motorola/athene/proprietary/lib/hw/sensors.msm8952.so:system/lib/hw/sensors.msm8952.so \
     vendor/motorola/athene/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
