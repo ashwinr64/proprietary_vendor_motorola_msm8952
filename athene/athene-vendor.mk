@@ -96,7 +96,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/motorola/athene/proprietary/lib/hw/camera.msm8952.so:system/lib/hw/camera.msm8952.so \
     vendor/motorola/athene/proprietary/lib/hw/fingerprint.msm8952.so:system/lib/hw/fingerprint.msm8952.so \
-    vendor/motorola/athene/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/motorola/athene/proprietary/lib/hw/sensorhub.msm8952.so:system/lib/hw/sensorhub.msm8952.so \
     vendor/motorola/athene/proprietary/lib/hw/sensors.msm8952.so:system/lib/hw/sensors.msm8952.so \
     vendor/motorola/athene/proprietary/lib/libadropbox.so:system/lib/libadropbox.so \
@@ -105,13 +104,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/lib/libcamerabgprocservice.so:system/lib/libcamerabgprocservice.so \
     vendor/motorola/athene/proprietary/lib/libcom_fingerprints_service.so:system/lib/libcom_fingerprints_service.so \
     vendor/motorola/athene/proprietary/lib/lib_fpc_tac_shared.so:system/lib/lib_fpc_tac_shared.so \
-    vendor/motorola/athene/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/motorola/athene/proprietary/lib/libjscore.so:system/lib/libjscore.so \
     vendor/motorola/athene/proprietary/lib/libjustshoot.so:system/lib/libjustshoot.so \
     vendor/motorola/athene/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/motorola/athene/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/motorola/athene/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/motorola/athene/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/motorola/athene/proprietary/lib/libmbs.so:system/lib/libmbs.so \
     vendor/motorola/athene/proprietary/lib/libmdmcutback.so:system/lib/libmdmcutback.so \
     vendor/motorola/athene/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
@@ -586,10 +582,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/athene/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/motorola/athene/proprietary/vendor/lib/libllvm-glnext.so:system/vendor/lib/libllvm-glnext.so \
     vendor/motorola/athene/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
-    vendor/motorola/athene/proprietary/vendor/lib/liblocationservice_glue.so:system/vendor/lib/liblocationservice_glue.so \
-    vendor/motorola/athene/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
-    vendor/motorola/athene/proprietary/vendor/lib/libloc_ext.so:system/vendor/lib/libloc_ext.so \
-    vendor/motorola/athene/proprietary/vendor/lib/libloc_xtra.so:system/vendor/lib/libloc_xtra.so \
     vendor/motorola/athene/proprietary/vendor/lib/liblqe.so:system/vendor/lib/liblqe.so \
     vendor/motorola/athene/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/motorola/athene/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
